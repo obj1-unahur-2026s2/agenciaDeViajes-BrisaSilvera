@@ -1,6 +1,6 @@
 
 class Beneficio {
-    const tipo //= ["traslado privado", "acceso a salas vip", "seguro adicionales"]
+    var tipo
     var costo 
     var estaVigente = true
 }
